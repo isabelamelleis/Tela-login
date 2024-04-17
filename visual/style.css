@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    padding-block: 30vh;
+}
+
+img {
+    height: 5vmax;
+    width: auto;
+}
+
+#formulario {
+    display: flex;
+    justify-content: center;
+}
+
+form {
+    background-color:rgb(223, 255, 255);
+    padding: 5%;
+    border-width: 1px;
+    border-style: solid;
+}
+
+button {
+    width: 100%;
+}
