@@ -3,7 +3,8 @@
     padding: 0;
 }
 
-body {
+/* TELA 1 */
+#bodyTela1 {
     text-align: center;
     padding-block: 30vh;
 }
@@ -29,6 +30,14 @@ button {
     width: 100%;
 }
 
-.display-flex {
-    display: inline;
+/* TELA 2 */
+.divsTela2 {
+    display: flex;
+    gap: 1%;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+.paragragoTela2 {
+    font-weight: bold;
 }
